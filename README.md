@@ -6,7 +6,8 @@ Currently focused on transforming raw data into actionable business insights and
 
 ---
 
-<img width="816" height="389" alt="Jona" src="https://github.com/user-attachments/assets/39fd2e9a-9ce4-4ea7-8900-f20e0f4c0368" />
+<img width="1983" height="793" alt="Fondo Jonathan" src="https://github.com/user-attachments/assets/0c205ae4-9a3c-44a8-9e86-a14854fbbe92" />
+
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
