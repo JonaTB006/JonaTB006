@@ -1,4 +1,52 @@
-## Hi there 👋
+# Hi there! I'm a Data Enthusiast 👋
+
+I am a student specializing in **Data Management for Analysis and Visualization**. I have a deep interest in large-scale data analysis, cloud analytics, and understanding the architecture behind modern cloud data storage and processing.
+
+Currently focused on transforming raw data into actionable business insights and designing efficient, scalable data solutions.
+
+---
+
+<img width="816" height="389" alt="Jona" src="https://github.com/user-attachments/assets/39fd2e9a-9ce4-4ea7-8900-f20e0f4c0368" />
+
+
+
+## 🚀 Technologies & Tools
+
+### **Data Visualization & BI**
+*   **Power BI** (Conceptual/logical modeling, advanced DAX, Power Query, Power BI Service)
+*   **Tableau** (Interactive dashboard creation and data storytelling)
+*   **Advanced Excel** (Pivot tables, Power Pivot, and data manipulation)
+
+### **Programming & Databases**
+*   **SQL** (Querying, data manipulation, and relational database design)
+*   **Python** (Data analysis and cleaning using libraries such as Pandas and NumPy)
+
+---
+
+## 📜 Official Certifications
+
+*   **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** 📊
+*   **Microsoft Certified: Azure Data Fundamentals (DP-900)** ☁️
+
+---
+
+## 🛠️ Areas of Interest & Specialization
+
+*   **Cloud Computing & Data Architecture:** Exploring cloud storage services, data warehouses, and data pipelines.
+*   **Big Data:** Analysis and processing of large volumes of information.
+*   **Data Modeling:** Designing robust structured databases for business scenarios.
+
+---
+
+## 📬 How to reach me:
+
+I'm always open to discussing data, collaboration, and tech!
+
+*   **LinkedIn:** [Jonathan Telica Barquero](www.linkedin.com/in/jonathan-telica-barquero-053a10192)
+*   **Email:** [jonabska8@gmail.com](mailto:jonabska8@gmail.com)
+
+---
+⚡ *Fun fact: I firmly believe that a strong data model is the bedrock of any great business decision.*
 
 <!--
 **JonaTB006/JonaTB006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
