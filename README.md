@@ -19,13 +19,14 @@ Currently focused on transforming raw data into actionable business insights and
 ## 🚀 Technologies & Tools
 
 ### **Data Visualization & BI**
-*   **Power BI** (Conceptual/logical modeling, advanced DAX, Power Query, Power BI Service)
-*   **Tableau** (Interactive dashboard creation and data storytelling)
-*   **Advanced Excel** (Pivot tables, Power Pivot, and data manipulation)
+*   Advance Excel (Power query, pivot tables and advance Formulas)
+*   Business Intelligence Tools: Power BI, Tableau.
+*   Descriptive Statistics: mean, median, mode, standard deviation, and data visualization.
+  
 
 ### **Programming & Databases**
-*   **SQL** (Querying, data manipulation, and relational database design)
-*   **Python** (Data analysis and cleaning using libraries such as Pandas and NumPy)
+*   Data Analysis: SQL Server, MySQL and SQLite for data extraction and manipulation.
+*   Programming: Python (for data manipulation and analysis).
 
 ---
 
