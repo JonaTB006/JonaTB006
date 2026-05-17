@@ -1,6 +1,5 @@
 # Hi there! I'm a Data Enthusiast 👋
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=JonaTB006)
 
 I am a student specializing in **Data Management for Analysis and Visualization**. I have a deep interest in large-scale data analysis, cloud analytics, and understanding the architecture behind modern cloud data storage and processing.
 
