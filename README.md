@@ -15,7 +15,7 @@ Currently focused on transforming raw data into actionable business insights and
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-3776AB?style=for-the-badge&logo=databricks&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
 
 
 ## 🚀 Technologies & Tools
