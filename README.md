@@ -11,7 +11,7 @@ Currently focused on transforming raw data into actionable business insights and
 
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-3776AB?style=for-the-badge&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-3776AB?style=for-the-badge&logo=tableau&logoColor=Orange)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
